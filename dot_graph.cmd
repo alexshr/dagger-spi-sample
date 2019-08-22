@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Graphviz2.38\bin\dot" -Tpng app/build/intermediates/classes/debug/com/star_zero/dagger_spi_sample/di/AppComponent.dot -o graph-image/AppComponent.png
